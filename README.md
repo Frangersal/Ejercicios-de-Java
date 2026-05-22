@@ -1,2 +1,3 @@
-# Ejercicios-de-Java
-Ejercicios de Java del libro 
+# JAVA con ejercicios
+Ejercicios del libro "Aprende Java con Ejercicios" de Luis José Sánchez
+Edición 2019
